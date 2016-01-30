@@ -1,10 +1,10 @@
 package ua.npu.project.library;
 
-//Відео
 
-public class Video extends Publication{
 
-    public String format;
+public class Magazine extends Publication{
+
+    public int Namber();
     public double lenght;
 
     public Video(String format, double lenght) {
